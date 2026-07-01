@@ -1,0 +1,76 @@
+canonical_identifier: bkk:krp/KR6v0363/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0363/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大圓滿
+  identifiers:
+    krp: KR6v0363
+    cbeta: B10n0064
+    cbeta_old_id: B10n0064
+    authorityid: CA0006148
+    json_key: B0064
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0064.xml
+    old_id: B10n0064
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0363_001-B.yaml, hash: 'sha256:0f8f1dfe8b52f30cfcd8dc5500d218405fcc8e3e8c2677a39865712634f483e9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0363_001-B.markers.yaml, hash: 'sha256:af3aa167a7ce1156c96b8285ba533449f9fbc6982b960596e5c5a7e016092265'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0363_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 11177
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0363_B_001-mulu-1
+    span:
+    - body
+    - 28
+    - 28
+  label: 一、大圓滿的意義和內容
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0363_B_001-mulu-2
+    span:
+    - body
+    - 2773
+    - 2773
+  label: 二、大圓滿中最盛行的要門部的理論和內容
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0363_B_001-mulu-3
+    span:
+    - body
+    - 6461
+    - 6461
+  label: 三、大圓滿前後宏期在西藏的傳承流布簡況及抉擇總結
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0363_B_001-mulu-4
+    span:
+    - body
+    - 11073
+    - 11073
+  label: 參考書目
+  type: mulu
+  level: 1
+hash: sha256:7c5c4edf670411c58e41970ca4217e86e8fccab69b7a589131d26ecd2c690553
