@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0363/v1
 canonical_location: https://kanripo.org/bkk/KR6v0363/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大圓滿
   source:
@@ -18,9 +18,9 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 1, filename: KR6v0363_001.yaml, hash: 'sha256:0f8f1dfe8b52f30cfcd8dc5500d218405fcc8e3e8c2677a39865712634f483e9'}
+  - {seq: 1, filename: KR6v0363_001.yaml, hash: 'sha256:494f2cd27405688f98f85177f4ff3277f784d3e8836d8690e82f474803112792'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0363_001.markers.yaml, hash: 'sha256:ac902d0643e18f1232e3a045b59e6a433fc83ab1bd4bec6d1d1ed1909461afe4'}
+  - {seq: 1, role: markers, filename: assets/KR6v0363_001.markers.yaml, hash: 'sha256:a9b02a324c76138c185fe33e5ef9367d3ff3025294642208d8deb1b624d70587'}
 table_of_contents:
 - ref:
     seq: 1
@@ -72,4 +72,7 @@ table_of_contents:
   label: 參考書目
   type: mulu
   level: 1
-hash: sha256:f2c83a3eb222e36fdf19fb802ac03d41fb7443add1b7e341fdccbc99468b6322
+hash: sha256:800baba0c4b966b470ef1daff2aa42b6e6262245fb6ab4f2215009085e6bd0c8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
